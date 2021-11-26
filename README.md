@@ -1,2 +1,2 @@
-# ctf-writeups
-A collection of write ups for CTF challenges
+# CTF Writeups
+A collection of writeups for CTF challenges
